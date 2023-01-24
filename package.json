@@ -6,7 +6,7 @@
   "homepage": "https://Bartosz-Zarski.github.io/lody-final",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /lody-final/"
   },
   "repository": {
     "type": "git",
